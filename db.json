@@ -1,19 +1,19 @@
 {
   "bot_config": [
     {
-      "key": 12343,
+      "id": 12343,
       "value": "test1"
     },
     {
-      "key": 232312,
+      "id": 232312,
       "value": "test2"
     },
     {
-      "key": 1232312,
+      "id": 1232312,
       "value": "test3"
     },
     {
-      "key": 453454,
+      "id": 453454,
       "value": "test4"
     }
   ],
